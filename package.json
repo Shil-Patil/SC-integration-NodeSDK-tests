@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-sdk-tests",
+  "version": "1.0.0",
+  "description": "Integration tests for GSC-integration sdk",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.js"
+    }
+  },
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "test": "mocha './SC_test/OrderManager/status_chnage.js'"
+  },
+  "comment1": " BrandManager/Brand_Manager.js_ Test_Brands.js CategoryManager/CategoryManager.js DocumentManager/DocumentManager.js ",
+  "comment2": "ProductManager/Test_Product.js_OrderManager/status_chnage.js_Test_getOrderItems.js_Test_getOrders.js_Test_getOrderWithStatus.js_Test_OrderParameter.js",
+  "author": "Shilpa Patil",
+  "license": "ISC",
+  "dependencies": {
+    "gsc-typescript-sdk": "^1.0.36",
+    "luxon": "^2.2.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.2",
+    "chai": "^4.3.4", 
+    "mocha": "^9.1.3",
+    "supertest": "^6.1.6"
+  }
+}

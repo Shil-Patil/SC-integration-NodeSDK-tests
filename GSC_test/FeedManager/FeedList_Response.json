@@ -1,0 +1,1265 @@
+{
+    "SuccessResponse": {
+        "Head": {
+            "RequestId": "",
+            "RequestAction": "FeedList",
+            "ResponseType": "Feed",
+            "Timestamp": "2021-12-23T14:35:23-0300"
+        },
+        "Body": {
+            "Feed": [
+                {
+                    "Feed": "e29a5827-5fa3-499a-96ee-f7a0dee4bb96",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 14:26:07",
+                    "UpdatedDate": "2021-12-23 14:26:08",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJVbmlkYWREZU1lZGlkYSI7Ik1lZGlkYVZvbHVtZW4iOyJDb25kaXRpb25UeXBlTm90ZSI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiRmllbGQgJ0NhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWUnIGNhbm5vdCBiZSBlbXB0eSI7IiI7IkpBTjIyMTIyMTIyIjsiZ3Vham9sb3RlIGRlIG5hdmlkYWQgIGdzYyBzdGcgY2wiOyJhaHVtYWRvIjsiMjA0NiI7Imd1YWpvbG90ZSBkZSBuYXZpZGFkICBnc2Mgc3RnIGNsZ3Vham9sb3RlIGRlIG5hdmlkYWQgIGdzYyBzdGcgY2xndWFqb2xvdGUgZGUgbmF2aWRhZCAgZ3NjIHN0ZyBjbGd1YWpvbG90ZSBkZSBuYXZpZGFkICBnc2Mgc3RnIGNsZ3Vham9sb3RlIGRlIG5hdmlkYWQgIGdzYyBzdGcgY2xndWFqb2xvdGUgZGUgbmF2aWRhZCAgZ3NjIHN0ZyBjbGd1YWpvbG90ZSBkZSBuYXZpZGFkICBnc2Mgc3RnIGNsZ3Vham9sb3RlIGRlIG5hdmlkYWQgIGdzYyBzdGcgY2wiOyJQdWVydG8gQXVzdHJhbCI7IjkwNnkyNzg4MiI7IiI7Ik51ZXZvIjsiMSI7IjEiOyIxIjsiMSI7InRlc3RvcCI7IkNlbnTDrW1ldHJvIjsiMTAiOyJudWV2byI7ImZhY2wiOyIyMzEwMDAwIjsiIjsiIjsiIjsiODAwIjsiYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "829b64a5-c426-49d4-9328-e1231fc309e6",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 13:42:20",
+                    "UpdatedDate": "2021-12-23 13:42:20",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "0b566a6f-df74-4c1a-b23b-288dab06a437",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 13:41:40",
+                    "UpdatedDate": "2021-12-23 13:41:41",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJVbmlkYWREZU1lZGlkYSI7Ik1lZGlkYVZvbHVtZW4iOyJDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlIjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIkF0IGxlYXN0IG9uZSBidXNpbmVzcyB1bml0IG9yIGl0cyBhdHRyaWJ1dGVzIHNob3VsZCBiZSBmaWxsZWQiOyIiOyJBU0RBU0RBU0RBU0RBU0QiOyJQUk9EVUNUTzY2VEVTVCI7InJvam9zIENvcHkiOyIyMDQ2IjsiY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGciOyJQdWVydG8gQXVzdHJhbCI7IkFTREFTREFTREFTREFTRCI7IiI7Ik51ZXZvIjsiMSI7IjEiOyIxIjsiMSI7InRlc3QiOyJDZW50w61tZXRybyI7IjEwIjsiQ2FudGlkYWRDb250ZW5pZGFFbkVsRW1wYXF1ZUNhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWVDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlIjsibnVldm8iOyJmYWNsIjsiMTI5Mjc5MzczLjY1IjsiIjsiIjsiIjsiMCI7ImluYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "9fb6ef26-6bdb-4b3c-af84-b027df929314",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 13:33:56",
+                    "UpdatedDate": "2021-12-23 13:33:57",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJVbmlkYWREZU1lZGlkYSI7Ik1lZGlkYVZvbHVtZW4iOyJDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlIjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIkF0IGxlYXN0IG9uZSBidXNpbmVzcyB1bml0IG9yIGl0cyBhdHRyaWJ1dGVzIHNob3VsZCBiZSBmaWxsZWQiOyIiOyJMVUlTQVNEQVNEQVNEQVNEQVNEIjsiUFJPRFVDVE82NlRFU1QiOyJyb2pvcyBDb3B5IjsiMjA0NiI7ImNhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnIjsiUHVlcnRvIEF1c3RyYWwiOyIxMjMxMjMxMjMxMjMiOyIiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjEiOyJ0ZXN0IjsiQ2VudMOtbWV0cm8iOyIxMCI7IkNhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWVDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlQ2FudGlkYWRDb250ZW5pZGFFbkVsRW1wYXF1ZSI7Im51ZXZvIjsiZmFjbCI7IjEyOTI3OTM3My42NSI7IiI7IiI7IiI7IjAiOyJpbmFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "a6d906ea-f59a-41a5-88c6-aa9c9c4bbba6",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 13:33:23",
+                    "UpdatedDate": "2021-12-23 13:33:24",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "24df8a47-c4dc-4876-8270-9c7c1a9249ee",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 13:32:26",
+                    "UpdatedDate": "2021-12-23 13:32:26",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJVbmlkYWREZU1lZGlkYSI7Ik1lZGlkYVZvbHVtZW4iOyJDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlIjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIlByb2R1Y3QgSWRlbnRpZmllciBtdXN0IGJlIG51bWJlciBvbmx5IHwgU2VsbGVyU2t1OiBMVUlTQVNEQVNEQVNEQVNEQVNEIHwgTmFtZTogUFJPRFVDVE82NlRFU1QiOyIiOyJMVUlTQVNEQVNEQVNEQVNEQVNEIjsiUFJPRFVDVE82NlRFU1QiOyJyb2pvcyBDb3B5IjsiMjA0NiI7ImNhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnIjsiUHVlcnRvIEF1c3RyYWwiOyJMVUlTQVNEQVNEQVNEQVNEQVNEIjsiIjsiTnVldm8iOyIxIjsiMSI7IjEiOyIxIjsidGVzdCI7IkNlbnTDrW1ldHJvIjsiMTAiOyJDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlQ2FudGlkYWRDb250ZW5pZGFFbkVsRW1wYXF1ZUNhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWUiOyJudWV2byI7ImZhY2wiOyIxMjkyNzkzNzMuNjUiOyIiOyIiOyIiOyIxMCI7ImluYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "26c2c0d3-1ef1-43fb-8066-01915eca13d4",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 13:31:49",
+                    "UpdatedDate": "2021-12-23 13:31:50",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJVbmlkYWREZU1lZGlkYSI7Ik1lZGlkYVZvbHVtZW4iOyJDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlIjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIkF0IGxlYXN0IG9uZSBidXNpbmVzcyB1bml0IG9yIGl0cyBhdHRyaWJ1dGVzIHNob3VsZCBiZSBmaWxsZWQiOyIiOyJMVUlTQVNEQVNEQVNEQVNEQVNEIjsiUFJPRFVDVE82NlRFU1QiOyJyb2pvcyBDb3B5IjsiMjA0NiI7ImNhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnIjsiUHVlcnRvIEF1c3RyYWwiOyJMVUlTQVNEQVNEQVNEQVNEQVNEIjsiIjsiTnVldm8iOyIxIjsiMSI7IjEiOyIxIjsidGVzdCI7IkNlbnTDrW1ldHJvIjsiMTAiOyJDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlQ2FudGlkYWRDb250ZW5pZGFFbkVsRW1wYXF1ZUNhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWUiOyJudWV2byI7ImZhY2wiOyIxMjkyNzkzNzMuNjUiOyIiOyIiOyIiOyIwIjsiaW5hY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "b47afa4b-0c1a-48ea-a424-18c91be5df9b",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 13:15:24",
+                    "UpdatedDate": "2021-12-23 13:15:24",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJVbmlkYWREZU1lZGlkYSI7Ik1lZGlkYVZvbHVtZW4iOyJDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlIjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIkF0IGxlYXN0IG9uZSBidXNpbmVzcyB1bml0IG9yIGl0cyBhdHRyaWJ1dGVzIHNob3VsZCBiZSBmaWxsZWQiOyIiOyJBU0RBU0RBU0RBU0RBU0QiOyJQUk9EVUNUTzY2VEVTVCI7InJvam9zIENvcHkiOyIyMDQ2IjsiY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGciOyJQdWVydG8gQXVzdHJhbCI7IkFTREFTREFTREFTREFTRCI7IiI7Ik51ZXZvIjsiMSI7IjEiOyIxIjsiMSI7InRlc3QiOyJDZW50w61tZXRybyI7IjEwIjsiQ2FudGlkYWRDb250ZW5pZGFFbkVsRW1wYXF1ZUNhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWVDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlIjsibnVldm8iOyJmYWNsIjsiMTI5Mjc5MzczLjY1IjsiIjsiIjsiIjsiMCI7ImluYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "56e2c11d-1d5f-4ad3-b2e8-adb5bb263147",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 11:41:25",
+                    "UpdatedDate": "2021-12-23 11:41:25",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "b26be4f3-2a87-44d6-be3e-1956a7fa8aa8",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 11:40:49",
+                    "UpdatedDate": "2021-12-23 11:40:49",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7Ik5hbWUiOyJCcmFuZCI7Ik1vZGVsIjsiRGVzY3JpcHRpb24iOyJQcm9kdWN0aW9uQ291bnRyeSI7IlByaW1hcnlDYXRlZ29yeSI7IkNvbG9yQmFzaWNvIjsiQ29sb3IiOyJTaXplIjsiUHJvZHVjdElkIjsiU2VsbGVyU2t1IjsiUGFyZW50U2t1IjsiU2FsZXNJbkZhbGFiZWxsYSI7IlF1YW50aXR5RmFsYWJlbGxhIjsiUHJpY2VGYWxhYmVsbGEiOyJTYWxlUHJpY2VGYWxhYmVsbGEiOyJTYWxlU3RhcnREYXRlRmFsYWJlbGxhIjsiU2FsZUVuZERhdGVGYWxhYmVsbGEiOyJUaXBvRGVSZWxvaiI7IkRpbWVuc2lvbmVzRGVMYUVzZmVyYSI7IlJlc2lzdGVuY2lhQWxBZ3VhIjsiTWF0ZXJpYWxEZUxhUHVsc2VyYSI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiVGlwb0RlQ2llcnJlRGVSZWxvaiI7Ik1hdGVyaWFsRGVMYU1pY2EiOyJUaXBvRGVDb21pc29uZXNDYW1pc29sYXMiOyJUaXBvRmFsZGFzIjsiVGlwb1Zlc3RpZG9zIjsiVXNvIjsiQ29uZGl0aW9uVHlwZSI7IkNvbmRpdGlvblR5cGVOb3RlIjsiU2VsbGVyV2FycmFudHkiOyJQcm9kdWN0V2FycmFudHkiOyJQYWNrYWdlQ29udGVudCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlSGVpZ2h0IjsiUGFja2FnZVdpZHRoIjsiUGFja2FnZVdlaWdodCI7Ik9yaWdlbkJ1IjsiTWFpbkltYWdlIjsiSW1hZ2UyIjsiSW1hZ2UzIjsiSW1hZ2U0IjsiSW1hZ2U1IjsiSW1hZ2U2IjsiSW1hZ2U3IjsiSW1hZ2U4IjsiU3RhdHVzIjsiVGF4Q2xhc3MiOyJDb25kaXRpb24iCiJQcm9kdWN0IElkZW50aWZpZXIgYWxyZWFkeSBpbiB1c2UuIHwgU2VsbGVyU2t1OiBTTS1SODc1RlpTQUlOQkMgfCBOYW1lOiBOYWVlbXMgd2hpdGUgc25lYWtlcnMgZm9yIG1lbnMiOyIiOyJOYWVlbXMgd2hpdGUgc25lYWtlcnMgZm9yIG1lbnMiOyIxMDEgSURFRVMiOyJBZGlkYXMgV2hpdGUgU25lYWtlcnMiOyJTcGFyeCBpcyBhIHNwZWN0YWN1bGFyIHJhbmdlIG9mIGZvb3R3ZWFyIGZyb20gdGhlIGhvdXNlIG9mIFJlbGF4byBGb290d2VhcnMgTHRkLiwgYSBuYW1lIHRydXN0ZWQgYW1vbmcgbWlsbGlvbnMgb2YgcGVvcGxlIGluIEluZGlhIGFuZCBhY3Jvc3MgdGhlIHdvcmxkIGZvciBkZWxpdmVyaW5nIHVubWF0Y2hlZCBxdWFsaXR5LiBTaW5jZSBpdHMgaW5jZXB0aW9uLCB0aGUgY29tcGFueSBoYXMgZXN0YWJsaXNoZWQgYSBiZW5jaG1hcmsgZm9yIGJyaW5naW5nIHRoZSBmaW5lc3QgcmFuZ2Ugb2YgZm9vdHdlYXJzLiI7IkFuZ29sYSI7IjI2MzIiOyJCcm9uY2UiOyJBenVsIjsiTCI7IjIyNjYiOyJTTS1SODc1RlpTQUlOQkMiOyIiOyIxIjsiMzAiOyIyMzAwMCI7IjIwMDAwIjsiMjAyMS0xMi0yMSI7IjIwMjEtMTItMzEiOyJSZWxvaiBzbWFydHdhdGNoIjsiMzJtbSI7IlPDrSI7IkNhcmV5IjsiVW5pc2V4IjsiTWFyaXBvc2EiOyJQb2xpY2FyYm9uYXRvIjsiQmF0YSI7IkZhbGRhcyI7IlZlc3RpZG9zIjsiTGVudGVzIENpY2xpc21vIjsiTnVldm8iOyJUaGUgcHJvZHVjdCBpcyBpbiBnb29kIGNvbmRpdGlvbiBhbmQgd29ya2luZyI7IiI7IiI7IiI7IjEiOyIzIjsiNCI7IjIiOyIiOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS81MWc2UzJYb0FjTC5fVVkxMDk1Xy5qcGciOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS82MVl4M0Y1UDA1Uy5fVVk5OTVfLmpwZyI7Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9JLzYxcTlrSmd4QUhMLl9VWTg5NV8uanBnIjsiaHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFPSDYwQlBDcUwuX1VZMTE5NV8uanBnIjsiIjsiIjsiIjsiIjsiYWN0aXZlIjsiSVZBIDE5JSI7Im5ldyIK"
+                    }
+                },
+                {
+                    "Feed": "c91c7574-381b-4d24-9c41-908a6458b2df",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 11:24:46",
+                    "UpdatedDate": "2021-12-23 11:24:47",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJQYXJlbnRTa3UiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJpY2VGYWxhYmVsbGEgY2Fubm90IGJlIGxlc3MgdGhhbiBvciBlcXVhbCB0byAwIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7IjEyMzI1NTQ3MTQ3NzQiOyIiOyJoeXV0cmRld3c4NzQiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjAiOyIiOyIiOyIiOyIxMjMiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "4746b2ee-c815-487f-a4e3-57b8629ae53b",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 11:23:31",
+                    "UpdatedDate": "2021-12-23 11:23:32",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "998f64f3-cbc8-42aa-9605-e46f5ca418aa",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 11:22:45",
+                    "UpdatedDate": "2021-12-23 11:22:45",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7Ik5hbWUiOyJCcmFuZCI7Ik1vZGVsIjsiRGVzY3JpcHRpb24iOyJQcm9kdWN0aW9uQ291bnRyeSI7IlByaW1hcnlDYXRlZ29yeSI7IkNvbG9yQmFzaWNvIjsiQ29sb3IiOyJTaXplIjsiUHJvZHVjdElkIjsiU2VsbGVyU2t1IjsiUGFyZW50U2t1IjsiU2FsZXNJbkZhbGFiZWxsYSI7IlF1YW50aXR5RmFsYWJlbGxhIjsiUHJpY2VGYWxhYmVsbGEiOyJTYWxlUHJpY2VGYWxhYmVsbGEiOyJTYWxlU3RhcnREYXRlRmFsYWJlbGxhIjsiU2FsZUVuZERhdGVGYWxhYmVsbGEiOyJUaXBvRGVSZWxvaiI7IkRpbWVuc2lvbmVzRGVMYUVzZmVyYSI7IlJlc2lzdGVuY2lhQWxBZ3VhIjsiTWF0ZXJpYWxEZUxhUHVsc2VyYSI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiVGlwb0RlQ2llcnJlRGVSZWxvaiI7Ik1hdGVyaWFsRGVMYU1pY2EiOyJUaXBvRGVDb21pc29uZXNDYW1pc29sYXMiOyJUaXBvRmFsZGFzIjsiVGlwb1Zlc3RpZG9zIjsiVXNvIjsiQ29uZGl0aW9uVHlwZSI7IkNvbmRpdGlvblR5cGVOb3RlIjsiU2VsbGVyV2FycmFudHkiOyJQcm9kdWN0V2FycmFudHkiOyJQYWNrYWdlQ29udGVudCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlSGVpZ2h0IjsiUGFja2FnZVdpZHRoIjsiUGFja2FnZVdlaWdodCI7Ik9yaWdlbkJ1IjsiTWFpbkltYWdlIjsiSW1hZ2UyIjsiSW1hZ2UzIjsiSW1hZ2U0IjsiSW1hZ2U1IjsiSW1hZ2U2IjsiSW1hZ2U3IjsiSW1hZ2U4IjsiU3RhdHVzIjsiVGF4Q2xhc3MiOyJDb25kaXRpb24iCiJQcm9kdWN0IElkZW50aWZpZXIgYWxyZWFkeSBpbiB1c2UuIHwgU2VsbGVyU2t1OiBTTS1SODc1RlpTQUlOQkEgfCBOYW1lOiBOYWVlbXMgd2hpdGUgc25lYWtlcnMgZm9yIG1lbnMiOyIiOyJOYWVlbXMgd2hpdGUgc25lYWtlcnMgZm9yIG1lbnMiOyIxMDEgSURFRVMiOyJBZGlkYXMgV2hpdGUgU25lYWtlcnMiOyJTcGFyeCBpcyBhIHNwZWN0YWN1bGFyIHJhbmdlIG9mIGZvb3R3ZWFyIGZyb20gdGhlIGhvdXNlIG9mIFJlbGF4byBGb290d2VhcnMgTHRkLiwgYSBuYW1lIHRydXN0ZWQgYW1vbmcgbWlsbGlvbnMgb2YgcGVvcGxlIGluIEluZGlhIGFuZCBhY3Jvc3MgdGhlIHdvcmxkIGZvciBkZWxpdmVyaW5nIHVubWF0Y2hlZCBxdWFsaXR5LiBTaW5jZSBpdHMgaW5jZXB0aW9uLCB0aGUgY29tcGFueSBoYXMgZXN0YWJsaXNoZWQgYSBiZW5jaG1hcmsgZm9yIGJyaW5naW5nIHRoZSBmaW5lc3QgcmFuZ2Ugb2YgZm9vdHdlYXJzLiI7IkFuZ29sYSI7IjI2MzIiOyJCcm9uY2UiOyJBenVsIjsiTCI7IjIzNjUiOyJTTS1SODc1RlpTQUlOQkEiOyIiOyIxIjsiMzAiOyIyMzAwMCI7IjIwMDAwIjsiMjAyMS0xMi0yMSI7IjIwMjEtMTItMzEiOyJSZWxvaiBzbWFydHdhdGNoIjsiMzJtbSI7IlPDrSI7IkNhcmV5IjsiVW5pc2V4IjsiTWFyaXBvc2EiOyJQb2xpY2FyYm9uYXRvIjsiQmF0YSI7IkZhbGRhcyI7IlZlc3RpZG9zIjsiTGVudGVzIENpY2xpc21vIjsiTnVldm8iOyJUaGUgcHJvZHVjdCBpcyBpbiBnb29kIGNvbmRpdGlvbiBhbmQgd29ya2luZyI7IiI7IiI7IiI7IjEiOyIzIjsiNCI7IjIiOyIiOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS81MWc2UzJYb0FjTC5fVVkxMDk1Xy5qcGciOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS82MVl4M0Y1UDA1Uy5fVVk5OTVfLmpwZyI7Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9JLzYxcTlrSmd4QUhMLl9VWTg5NV8uanBnIjsiaHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFPSDYwQlBDcUwuX1VZMTE5NV8uanBnIjsiIjsiIjsiIjsiIjsiYWN0aXZlIjsiSVZBIDE5JSI7Im5ldyIK"
+                    }
+                },
+                {
+                    "Feed": "f9a611b0-c79b-4724-a30a-fc2b87bce2b5",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 11:20:25",
+                    "UpdatedDate": "2021-12-23 11:20:25",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJQYXJlbnRTa3UiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJpY2VGYWxhYmVsbGEgY2Fubm90IGJlIGxlc3MgdGhhbiBvciBlcXVhbCB0byAwIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7IjEyMzI1NTQ3MTQ3NzQiOyIiOyJoeXV0cmRld3c4NzQiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjAiOyIiOyIiOyIiOyIxMjMiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "13c7a30d-8515-4a54-b3c2-470528f96ed0",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 11:19:09",
+                    "UpdatedDate": "2021-12-23 11:19:10",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "e61d7490-3a2c-4a4d-bce3-94c9789fdac9",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 11:13:12",
+                    "UpdatedDate": "2021-12-23 11:13:12",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJQYXJlbnRTa3UiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJpY2VGYWxhYmVsbGEgY2Fubm90IGJlIGxlc3MgdGhhbiBvciBlcXVhbCB0byAwIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7IjEyMzI1NTQ3MTQ3NzQiOyIiOyJoeXV0cmRld3c4NzQiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjAiOyIiOyIiOyIiOyI1MCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "e7cde3e7-e6b5-4c21-86ea-1baa75f86fc7",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 11:11:56",
+                    "UpdatedDate": "2021-12-23 11:11:56",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "ee5706c6-f785-42c8-9a0e-311058055efd",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 11:09:57",
+                    "UpdatedDate": "2021-12-23 11:09:58",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "b7897cc2-bafd-4280-8682-9bea8331c438",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 11:07:51",
+                    "UpdatedDate": "2021-12-23 11:07:51",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "37ac4288-edf0-45a8-83b0-c68787a7d9e8",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:58:23",
+                    "UpdatedDate": "2021-12-23 10:58:23",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "491448ab-c1fd-4845-bc3c-fd6d56549077",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:55:25",
+                    "UpdatedDate": "2021-12-23 10:55:26",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "09dc54ec-1d5c-4d06-96ee-f6a8a6153000",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:53:17",
+                    "UpdatedDate": "2021-12-23 10:53:18",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "34f429e1-2609-4ae1-8d60-b7b83833e367",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:52:12",
+                    "UpdatedDate": "2021-12-23 10:52:12",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "d0a04ca8-e4ee-468b-bca9-dae77725b7b1",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:49:30",
+                    "UpdatedDate": "2021-12-23 10:49:31",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJQYXJlbnRTa3UiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJpY2VGYWxhYmVsbGEgY2Fubm90IGJlIGxlc3MgdGhhbiBvciBlcXVhbCB0byAwIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7IjEyMzI1NTQ3MTQ3NzQiOyIiOyJoeXV0cmRld3c4NzQiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjAiOyIiOyIiOyIiOyI1MCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "c13482f7-adfc-4ae5-8ced-8025cb87e591",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:48:48",
+                    "UpdatedDate": "2021-12-23 10:48:48",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJQYXJlbnRTa3UiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJpY2VGYWxhYmVsbGEgY2Fubm90IGJlIGxlc3MgdGhhbiBvciBlcXVhbCB0byAwIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7IjEyMzI1NTQ3MTQ3NzQiOyIiOyJoeXV0cmRld3c4NzQiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjAiOyIiOyIiOyIiOyIyMzYiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "f566d6f0-c46e-443d-aa88-2314d1665690",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:46:11",
+                    "UpdatedDate": "2021-12-23 10:46:12",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "dc04616d-ab44-4d77-a938-29469847b12c",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 10:45:16",
+                    "UpdatedDate": "2021-12-23 10:45:17",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJQYXJlbnRTa3UiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJpY2VGYWxhYmVsbGEgY2Fubm90IGJlIGxlc3MgdGhhbiBvciBlcXVhbCB0byAwIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7IjEyMzI1NTQ3MTQ3NzQiOyIiOyJoeXV0cmRld3c4NzQiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjAiOyIiOyIiOyIiOyIyMzYiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "717c8b53-09c8-4f6b-89c1-efbe7dfb7808",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 09:46:21",
+                    "UpdatedDate": "2021-12-23 09:46:22",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "56a4bd94-8905-4b07-a2de-503f0e203a62",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 09:43:34",
+                    "UpdatedDate": "2021-12-23 09:43:34",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJQYXJlbnRTa3UiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJpY2VGYWxhYmVsbGEgY2Fubm90IGJlIGxlc3MgdGhhbiBvciBlcXVhbCB0byAwIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7IjEyMzI1NTQ3MTQ3NzQiOyIiOyJoeXV0cmRld3c4NzQiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjAiOyIiOyIiOyIiOyIyMzYiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "ff1a03ca-2f74-4d71-8c96-7018e624bbc4",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-23 09:34:18",
+                    "UpdatedDate": "2021-12-23 09:34:18",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "a3e38971-8f86-4e96-8840-9536e03620d2",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-23 09:15:53",
+                    "UpdatedDate": "2021-12-23 09:15:55",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "fb2abaad-626f-4934-bd6e-701b73ed13fd",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-22 23:46:55",
+                    "UpdatedDate": "2021-12-22 23:46:56",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "8bc2c1ff-acf6-41c9-beec-f5fd6b3485ad",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-22 23:39:12",
+                    "UpdatedDate": "2021-12-22 23:39:12",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "bb8a600c-fd85-41a8-9c6e-0c931227cf8b",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-22 23:37:46",
+                    "UpdatedDate": "2021-12-22 23:37:46",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "9d2b95b9-d81d-471a-94e7-5f62a6f0de2d",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-22 23:35:08",
+                    "UpdatedDate": "2021-12-22 23:35:09",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "4f0fc1b0-c66b-405b-bb6c-2682df022b4f",
+                    "Status": "Finished",
+                    "Action": "Image",
+                    "CreationDate": "2021-12-22 18:52:31",
+                    "UpdatedDate": "2021-12-22 18:52:31",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IkltYWdlIgoiVGhlIGltYWdlIGh0dHBzOi8vZmFsYWJlbGxhY2wudnRleGltZy5jb20uYnIvYXJxdWl2b3MvaWRzLzE1NTUxNS9pbWFnZXMucG5nIG11c3QgYmUgYmV0d2VlbiA3MDAgWCA3MDAsIGFuZCAyMDAwIFggMjAwMCB8IFNlbGxlclNrdTogaHl1dHJkZXd3ODc0IjsiIjsiaHl1dHJkZXd3ODc0IjsiaHR0cHM6Ly9mYWxhYmVsbGFjbC52dGV4aW1nLmNvbS5ici9hcnF1aXZvcy9pZHMvMTU1NTE1L2ltYWdlcy5wbmciCg=="
+                    }
+                },
+                {
+                    "Feed": "550bdfa2-d0c5-4919-ba8e-5f4278e2c58d",
+                    "Status": "Finished",
+                    "Action": "Image",
+                    "CreationDate": "2021-12-22 18:50:04",
+                    "UpdatedDate": "2021-12-22 18:50:04",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IkltYWdlIgoiVGhlIGltYWdlIGh0dHBzOi8vZmFsYWJlbGxhY2wudnRleGltZy5jb20uYnIvYXJxdWl2b3MvaWRzLzE1NTUxNS9pbWFnZXMucG5nIG11c3QgYmUgYmV0d2VlbiA3MDAgWCA3MDAsIGFuZCAyMDAwIFggMjAwMCB8IFNlbGxlclNrdTogaHl1dHJkZXd3ODc0IjsiIjsiaHl1dHJkZXd3ODc0IjsiaHR0cHM6Ly9mYWxhYmVsbGFjbC52dGV4aW1nLmNvbS5ici9hcnF1aXZvcy9pZHMvMTU1NTE1L2ltYWdlcy5wbmciCg=="
+                    }
+                },
+                {
+                    "Feed": "e0c868e6-5907-4d35-9ec7-1f1dc0fd63d2",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 18:48:00",
+                    "UpdatedDate": "2021-12-22 18:48:00",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJvZHVjdCBJZGVudGlmaWVyIG11c3QgYmUgbnVtYmVyIG9ubHkgfCBTZWxsZXJTa3U6IGh5dXRyZGV3dzg3NDEgfCBOYW1lOiBUcmFqZSBkZSBiYcOxbyI7IiI7Imh5dXRyZGV3dzg3NDEiOyJUcmFqZSBkZSBiYcOxbyI7IlRyYWplIGRlIGJhw7FvIHRhbGxhIE0iOyIzMDM5IjsiVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIKVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIKVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIKVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIiOyJTQU1TVU5HIjsiaHl1dHJkZXd3ODc0MSI7IiI7Ik51ZXZvIjsiMSI7IjEiOyIxIjsiMCI7Im5ldyI7ImNvcnRvIjsiSG9tYnJlIjsiQWxnb2TDs24iOyJNYW5nYSAzLzQiOyJBbWFyaWxsbyI7IlJlbGxlbm8gcGFyYSBnbMO6dGVvcyI7IjEiOyJmYWNsIjsiMTEwMCI7IiI7IiI7IiI7IjEwIjsiaW5hY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "278cd102-178e-44ff-a80a-faadf88e7e22",
+                    "Status": "Finished",
+                    "Action": "Image",
+                    "CreationDate": "2021-12-22 18:46:57",
+                    "UpdatedDate": "2021-12-22 18:46:57",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IkltYWdlIgoiVGhlIGltYWdlIGh0dHBzOi8vZmFsYWJlbGxhY2wudnRleGltZy5jb20uYnIvYXJxdWl2b3MvaWRzLzE1NTUxNS9pbWFnZXMucG5nIG11c3QgYmUgYmV0d2VlbiA3MDAgWCA3MDAsIGFuZCAyMDAwIFggMjAwMCB8IFNlbGxlclNrdTogaHl1dHJkZXd3ODc0IjsiIjsiaHl1dHJkZXd3ODc0IjsiaHR0cHM6Ly9mYWxhYmVsbGFjbC52dGV4aW1nLmNvbS5ici9hcnF1aXZvcy9pZHMvMTU1NTE1L2ltYWdlcy5wbmciCg=="
+                    }
+                },
+                {
+                    "Feed": "2d33fdff-385e-4617-9df7-89073ed3a769",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 18:46:55",
+                    "UpdatedDate": "2021-12-22 18:46:56",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiQXQgbGVhc3Qgb25lIGJ1c2luZXNzIHVuaXQgb3IgaXRzIGF0dHJpYnV0ZXMgc2hvdWxkIGJlIGZpbGxlZCI7IiI7Imh5dXRyZGV3dzg3NDEiOyJUcmFqZSBkZSBiYcOxbyI7IlRyYWplIGRlIGJhw7FvIHRhbGxhIE0iOyIzMDM5IjsiVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIKVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIKVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIKVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjIiOyJTQU1TVU5HIjsiaHl1dHJkZXd3ODc0MSI7IiI7Ik51ZXZvIjsiMSI7IjEiOyIxIjsiMCI7Im5ldyI7ImNvcnRvIjsiSG9tYnJlIjsiQWxnb2TDs24iOyJNYW5nYSAzLzQiOyJBbWFyaWxsbyI7IlJlbGxlbm8gcGFyYSBnbMO6dGVvcyI7IjEiOyJmYWNsIjsiMTEwMCI7IiI7IiI7IiI7IjAiOyJpbmFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "a22a390a-67bc-451e-a055-5d2b6398e23d",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 18:44:52",
+                    "UpdatedDate": "2021-12-22 18:44:54",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "82afb000-c538-449d-9409-3620885d4741",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 18:27:08",
+                    "UpdatedDate": "2021-12-22 18:27:08",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiUHJvZHVjdCBJZGVudGlmaWVyIG11c3QgYmUgbnVtYmVyIG9ubHkgfCBTZWxsZXJTa3U6IGh5dXRyZGV3dzg3NCB8IE5hbWU6IFRyYWplIGRlIGJhw7FvIjsiIjsiaHl1dHJkZXd3ODc0IjsiVHJhamUgZGUgYmHDsW8iOyJUcmFqZSBkZSBiYcOxbyB0YWxsYSBNIjsiMzAzOSI7IlRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyIjsiU0FNU1VORyI7Imh5dXRyZGV3dzg3NCI7IiI7Ik51ZXZvIjsiMSI7IjEiOyIxIjsiMCI7Im5ldyI7ImNvcnRvIjsiSG9tYnJlIjsiQWxnb2TDs24iOyJNYW5nYSAzLzQiOyJBbWFyaWxsbyI7IlJlbGxlbm8gcGFyYSBnbMO6dGVvcyI7IjEiOyJmYWNsIjsiMTEwMCI7IiI7IiI7IiI7IjEwMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "cb23c226-4fe6-4c7b-b58c-e1b08181e962",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 18:21:50",
+                    "UpdatedDate": "2021-12-22 18:21:51",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiQXQgbGVhc3Qgb25lIGJ1c2luZXNzIHVuaXQgb3IgaXRzIGF0dHJpYnV0ZXMgc2hvdWxkIGJlIGZpbGxlZCI7IiI7Imh5dXRyZGV3dzg3NCI7IlRyYWplIGRlIGJhw7FvIjsiVHJhamUgZGUgYmHDsW8gdGFsbGEgTSI7IjMwMzkiOyJUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMiI7IlNBTVNVTkciOyJoeXV0cmRld3c4NzQiOyIiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjExMDAiOyIiOyIiOyIiOyIwIjsiaW5hY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "a4dcbaee-d123-4720-8a78-69eeeb7e1d7f",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 18:20:33",
+                    "UpdatedDate": "2021-12-22 18:20:33",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJNb2RlbCI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiTWF0ZXJpYWxEZVZlc3R1YXJpbyI7IkxhcmdvRGVNYW5nYXMiOyJDb2xvckJhc2ljbyI7IlRpcG9EZVJlbGxlbm8iOyJEaW1lbnNpb25lcyI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiQXQgbGVhc3Qgb25lIGJ1c2luZXNzIHVuaXQgb3IgaXRzIGF0dHJpYnV0ZXMgc2hvdWxkIGJlIGZpbGxlZCI7IiI7Imh5dXRyZGV3dzg3NCI7IlRyYWplIGRlIGJhw7FvIjsiVHJhamUgZGUgYmHDsW8gdGFsbGEgTSI7IjMwMzkiOyJUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMg0KVHJhamUgZGUgYmHDsW8gcGFyYSBuYWRhciBlbiBsYSBwaXNjaW5hIGVzdGUgdmVyYW5vIDIwMjINClRyYWplIGRlIGJhw7FvIHBhcmEgbmFkYXIgZW4gbGEgcGlzY2luYSBlc3RlIHZlcmFubyAyMDIyDQpUcmFqZSBkZSBiYcOxbyBwYXJhIG5hZGFyIGVuIGxhIHBpc2NpbmEgZXN0ZSB2ZXJhbm8gMjAyMiI7IlNBTVNVTkciOyJoeXV0cmRld3c4NzQiOyIiOyJOdWV2byI7IjEiOyIxIjsiMSI7IjAiOyJuZXciOyJjb3J0byI7IkhvbWJyZSI7IkFsZ29kw7NuIjsiTWFuZ2EgMy80IjsiQW1hcmlsbG8iOyJSZWxsZW5vIHBhcmEgZ2zDunRlb3MiOyIxIjsiZmFjbCI7IjExMDAiOyIiOyIiOyIiOyIwIjsiaW5hY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "41c26c5f-809f-4690-92e3-1a213a74904c",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 17:22:49",
+                    "UpdatedDate": "2021-12-22 17:22:49",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJEZXNjcmlwdGlvbiI7IkJyYW5kIjsiUHJvZHVjdElkIjsiVGF4Q2xhc3MiOyJDb25kaXRpb25UeXBlIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJVbmlkYWREZU1lZGlkYSI7Ik1lZGlkYVZvbHVtZW4iOyJDb25kaXRpb25UeXBlTm90ZSI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiRmllbGQgJ0NhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWUnIGNhbm5vdCBiZSBlbXB0eSI7IiI7ImphbjIyMTIyMSI7ImNhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnIjsicm9qb3MiOyIyMDQ2IjsiY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGdjYWxjZXRpbmVzIG5hdmlkZcOxb3MgZ3NjIHN0Z2NhbGNldGluZXMgbmF2aWRlw7FvcyBnc2Mgc3RnY2FsY2V0aW5lcyBuYXZpZGXDsW9zIGdzYyBzdGciOyJQdWVydG8gQXVzdHJhbCI7IjczOTA1MiI7IiI7Ik51ZXZvIjsiMSI7IjEiOyIxIjsiMSI7InRlc3QiOyJDZW50w61tZXRybyI7IjEwIjsibnVldm8iOyJmYWNsIjsiMjMxMDAwMCI7IiI7IiI7IiI7IjgwMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "dc0954db-31bb-424d-9abb-1dab1afa410f",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 16:52:07",
+                    "UpdatedDate": "2021-12-22 16:52:07",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlBhcmVudFNrdSI7Ik5hbWUiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlNoaXBtZW50VHlwZSI7IlByb2R1Y3RJZCI7IkNvbmRpdGlvbiI7Ik1lZ2FwaXhlbHMiOyJPcHRpY2FsWm9vbSI7IlN5c3RlbU1lbW9yeSI7Ik51bWJlckNwdXMiOyJOZXR3b3JrIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJCcmFuZCAnQVNNJyBpcyBub3QgcmVnaXN0ZXJlZCBvbiBTZWxsZXIgQ2VudGVyLg0KTWVnYXBpeGVscywgT3B0aWNhbFpvb20sIFN5c3RlbU1lbW9yeSwgTnVtYmVyQ3B1cywgTmV0d29yayBpcy9hcmUgbm90IGFwcGxpY2FibGUgdG8gSmFyZGluZXLDrWEiOyIiOyJBU01fQTgwMTAiOyIiOyJQcm9kdWN0IjsiNCI7IjIsMyw1IjsicHJvZHVjdCBkZXNjcmlwdGlvbiI7IkFTTSI7ImRyb3BzaGlwcGluZyI7Inh5emFiYyI7Im5ldyI7IjQ5MCI7IjciOyI0IjsiMzIiOyJUaGlzIGlzIG5ldHdvcmsiOyJmYWNsIjsiOTk5LjAwIjsiIjsiIjsiIjsiMTAiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "a3c62547-6753-4f40-90f5-e522ccfdfe06",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 15:24:11",
+                    "UpdatedDate": "2021-12-22 15:24:11",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlBhcmVudFNrdSI7Ik5hbWUiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlNoaXBtZW50VHlwZSI7IlByb2R1Y3RJZCI7IkNvbmRpdGlvbiI7Ik1lZ2FwaXhlbHMiOyJPcHRpY2FsWm9vbSI7IlN5c3RlbU1lbW9yeSI7Ik51bWJlckNwdXMiOyJOZXR3b3JrIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJNZWdhcGl4ZWxzLCBPcHRpY2FsWm9vbSwgU3lzdGVtTWVtb3J5LCBOdW1iZXJDcHVzLCBOZXR3b3JrIGlzL2FyZSBub3QgYXBwbGljYWJsZSB0byBKYXJkaW5lcsOtYSI7IiI7IkFTTV9BODAxMDIyIjsiIjsiUHJvZHVjdFBydWViYUNSSVMiOyI0IjsiMiwzLDUiOyJwcm9kdWN0IGRlc2NyaXB0aW9uIjsiYWRpZGFzIjsiZHJvcHNoaXBwaW5nIjsieHl6YWJjIjsibmV3IjsiNDkwIjsiNyI7IjQiOyIzMiI7IlRoaXMgaXMgbmV0d29yayI7ImZhY2wiOyI5OTkuMDAiOyIiOyIiOyIiOyIxMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "18cddfe6-31ff-435c-931c-a9252777cfe5",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 15:14:31",
+                    "UpdatedDate": "2021-12-22 15:14:32",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlBhcmVudFNrdSI7Ik5hbWUiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlNoaXBtZW50VHlwZSI7IlByb2R1Y3RJZCI7IkNvbmRpdGlvbiI7Ik1lZ2FwaXhlbHMiOyJPcHRpY2FsWm9vbSI7IlN5c3RlbU1lbW9yeSI7Ik51bWJlckNwdXMiOyJOZXR3b3JrIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJGaWVsZCAnTW9kZWwnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VXZWlnaHQnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VXaWR0aCcgY2Fubm90IGJlIGVtcHR5DQpGaWVsZCAnUGFja2FnZUxlbmd0aCcgY2Fubm90IGJlIGVtcHR5DQpGaWVsZCAnUGFja2FnZUhlaWdodCcgY2Fubm90IGJlIGVtcHR5DQpGaWVsZCAnUHJvZnVuZGlkYWQnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ01hdGVyaWFsJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDb25kaXRpb25UeXBlTm90ZScgY2Fubm90IGJlIGVtcHR5DQpGaWVsZCAnQW5jaG8nIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0FsdG8nIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NvbmRpdGlvblR5cGUnIGNhbm5vdCBiZSBlbXB0eSI7IiI7IlBSVUVCQUNSSVMiOyIiOyJDUklTVkVSR0FSQSI7IjQiOyIyLDMsNSI7InByb2R1Y3QgZGVzY3JpcHRpb24iOyJBRElEQVMiOyJkcm9wc2hpcHBpbmciOyJ4eXphYmMiOyJuZXciOyI0OTAiOyI3IjsiNCI7IjMyIjsiVGhpcyBpcyBuZXR3b3JrIjsiZmFjbCI7Ijk5OS4wMCI7IiI7IiI7IiI7IjEwIjsiYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "2353ddff-fff8-44ac-9f1d-86a4f98d8e89",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-22 15:13:18",
+                    "UpdatedDate": "2021-12-22 15:13:19",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlByaWNlIgoiRmllbGQocykgUHJpY2UgaXMvYXJlIGludmFsaWQNCk11bHRpT3BlcmF0b3IgRmVlZCBWYWxpZGF0aW9uIEZhaWxlZCI7IiI7IjQxMDUzODIxNzNhYWVlNCI7IjEyIgo="
+                    }
+                },
+                {
+                    "Feed": "b4a50a3a-1ce5-45b5-9915-87923ea7b404",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 15:10:54",
+                    "UpdatedDate": "2021-12-22 15:10:54",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlBhcmVudFNrdSI7Ik5hbWUiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlNoaXBtZW50VHlwZSI7IlByb2R1Y3RJZCI7IkNvbmRpdGlvbiI7Ik1lZ2FwaXhlbHMiOyJPcHRpY2FsWm9vbSI7IlN5c3RlbU1lbW9yeSI7Ik51bWJlckNwdXMiOyJOZXR3b3JrIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJNZWdhcGl4ZWxzLCBPcHRpY2FsWm9vbSwgU3lzdGVtTWVtb3J5LCBOdW1iZXJDcHVzLCBOZXR3b3JrIGlzL2FyZSBub3QgYXBwbGljYWJsZSB0byBKYXJkaW5lcsOtYSI7IiI7IlRFU1RDUklTVElBTjAxIjsiIjsiUHJvZHVjdHBydWViYSI7IjQiOyIyLDMsNSI7InByb2R1Y3QgZGVzY3JpcHRpb24iOyJBRElEQVMiOyJkcm9wc2hpcHBpbmciOyJ4eXphYmMiOyJuZXciOyI0OTAiOyI3IjsiNCI7IjMyIjsiVGhpcyBpcyBuZXR3b3JrIjsiZmFjbCI7Ijk5OS4wMCI7IiI7IiI7IiI7IjEwIjsiYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "8b123733-f6aa-47da-bcb1-26fb77c2add7",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 13:23:28",
+                    "UpdatedDate": "2021-12-22 13:23:28",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlBhcmVudFNrdSI7Ik5hbWUiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlNoaXBtZW50VHlwZSI7IlByb2R1Y3RJZCI7IkNvbmRpdGlvbiI7Ik1lZ2FwaXhlbHMiOyJPcHRpY2FsWm9vbSI7IlN5c3RlbU1lbW9yeSI7Ik51bWJlckNwdXMiOyJOZXR3b3JrIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJCcmFuZCAnQVNNJyBpcyBub3QgcmVnaXN0ZXJlZCBvbiBTZWxsZXIgQ2VudGVyLg0KTWVnYXBpeGVscywgT3B0aWNhbFpvb20sIFN5c3RlbU1lbW9yeSwgTnVtYmVyQ3B1cywgTmV0d29yayBpcy9hcmUgbm90IGFwcGxpY2FibGUgdG8gSmFyZGluZXLDrWEiOyIiOyJURVNUQ1JJU1RJQU4wMSI7IiI7IlByb2R1Y3RwcnVlYmEiOyI0IjsiMiwzLDUiOyJwcm9kdWN0IGRlc2NyaXB0aW9uIjsiQVNNIjsiZHJvcHNoaXBwaW5nIjsieHl6YWJjIjsibmV3IjsiNDkwIjsiNyI7IjQiOyIzMiI7IlRoaXMgaXMgbmV0d29yayI7ImZhY2wiOyI5OTkuMDAiOyIiOyIiOyIiOyIxMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "160fbcb5-2b77-4fd4-a1f9-50810b46f334",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 09:52:29",
+                    "UpdatedDate": "2021-12-22 09:52:30",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "ccf5acc1-2e7c-4f62-9890-67cc1691a37c",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 09:40:00",
+                    "UpdatedDate": "2021-12-22 09:40:01",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "baae1a40-ae31-4090-8476-7e6ed34c0b07",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 09:39:27",
+                    "UpdatedDate": "2021-12-22 09:39:28",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7Ik5hbWUiOyJCcmFuZCI7Ik1vZGVsIjsiRGVzY3JpcHRpb24iOyJQcm9kdWN0aW9uQ291bnRyeSI7IlByaW1hcnlDYXRlZ29yeSI7IkNvbG9yQmFzaWNvIjsiQ29sb3IiOyJTaXplIjsiUHJvZHVjdElkIjsiU2VsbGVyU2t1IjsiUGFyZW50U2t1IjsiU2FsZXNJbkZhbGFiZWxsYSI7IlF1YW50aXR5RmFsYWJlbGxhIjsiUHJpY2VGYWxhYmVsbGEiOyJTYWxlUHJpY2VGYWxhYmVsbGEiOyJTYWxlU3RhcnREYXRlRmFsYWJlbGxhIjsiU2FsZUVuZERhdGVGYWxhYmVsbGEiOyJUaXBvRGVSZWxvaiI7IkRpbWVuc2lvbmVzRGVMYUVzZmVyYSI7IlJlc2lzdGVuY2lhQWxBZ3VhIjsiTWF0ZXJpYWxEZUxhUHVsc2VyYSI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiVGlwb0RlQ2llcnJlRGVSZWxvaiI7Ik1hdGVyaWFsRGVMYU1pY2EiOyJUaXBvRGVDb21pc29uZXNDYW1pc29sYXMiOyJUaXBvRmFsZGFzIjsiVGlwb1Zlc3RpZG9zIjsiVXNvIjsiQ29uZGl0aW9uVHlwZSI7IkNvbmRpdGlvblR5cGVOb3RlIjsiU2VsbGVyV2FycmFudHkiOyJQcm9kdWN0V2FycmFudHkiOyJQYWNrYWdlQ29udGVudCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlSGVpZ2h0IjsiUGFja2FnZVdpZHRoIjsiUGFja2FnZVdlaWdodCI7Ik9yaWdlbkJ1IjsiTWFpbkltYWdlIjsiSW1hZ2UyIjsiSW1hZ2UzIjsiSW1hZ2U0IjsiSW1hZ2U1IjsiSW1hZ2U2IjsiSW1hZ2U3IjsiSW1hZ2U4IjsiU3RhdHVzIjsiVGF4Q2xhc3MiOyJDb25kaXRpb24iCiJTS1UgJ1NNLVI4NzVGWlNBSU5BRCcgaXMgYWxyZWFkeSB1c2VkIGJ5IGFub3RoZXIgcHJvZHVjdC4iOyIiOyJSb2Fkc3RlciB3aGl0ZSBzbmVha2VycyBmb3IgbWVucyI7IjEwMSBJREVFUyI7IkFkaWRhcyBXaGl0ZSBTbmVha2VycyI7IlNwYXJ4IGlzIGEgc3BlY3RhY3VsYXIgcmFuZ2Ugb2YgZm9vdHdlYXIgZnJvbSB0aGUgaG91c2Ugb2YgUmVsYXhvIEZvb3R3ZWFycyBMdGQuLCBhIG5hbWUgdHJ1c3RlZCBhbW9uZyBtaWxsaW9ucyBvZiBwZW9wbGUgaW4gSW5kaWEgYW5kIGFjcm9zcyB0aGUgd29ybGQgZm9yIGRlbGl2ZXJpbmcgdW5tYXRjaGVkIHF1YWxpdHkuIFNpbmNlIGl0cyBpbmNlcHRpb24sIHRoZSBjb21wYW55IGhhcyBlc3RhYmxpc2hlZCBhIGJlbmNobWFyayBmb3IgYnJpbmdpbmcgdGhlIGZpbmVzdCByYW5nZSBvZiBmb290d2VhcnMuIjsiQW5nb2xhIjsiMjYzMiI7IkJyb25jZSI7IkF6dWwiOyJMIjsiOTI1IjsiU00tUjg3NUZaU0FJTkFEIjsiIjsiMSI7IjMwIjsiMjMwMDAiOyIyMDAwMCI7IjIwMjEtMTItMjEiOyIyMDIxLTEyLTMxIjsiUmVsb2ogc21hcnR3YXRjaCI7IjMybW0iOyJTw60iOyJDYXJleSI7IlVuaXNleCI7Ik1hcmlwb3NhIjsiUG9saWNhcmJvbmF0byI7IkJhdGEiOyJGYWxkYXMiOyJWZXN0aWRvcyI7IkxlbnRlcyBDaWNsaXNtbyI7Ik51ZXZvIjsiVGhlIHByb2R1Y3QgaXMgaW4gZ29vZCBjb25kaXRpb24gYW5kIHdvcmtpbmciOyIiOyIiOyIiOyIxIjsiMyI7IjQiOyIyIjsiIjsiaHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFnNlMyWG9BY0wuX1VZMTA5NV8uanBnIjsiaHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFZeDNGNVAwNVMuX1VZOTk1Xy5qcGciOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS82MXE5a0pneEFITC5fVVk4OTVfLmpwZyI7Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9JLzUxT0g2MEJQQ3FMLl9VWTExOTVfLmpwZyI7IiI7IiI7IiI7IiI7ImFjdGl2ZSI7IklWQSAxOSUiOyJuZXciCg=="
+                    }
+                },
+                {
+                    "Feed": "804aca75-1e4c-4931-aa78-2269448e6859",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 06:18:28",
+                    "UpdatedDate": "2021-12-22 06:18:29",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "fe6a2b3f-bb7b-499e-b571-b02bdd02b203",
+                    "Status": "Finished",
+                    "Action": "Image",
+                    "CreationDate": "2021-12-22 04:45:33",
+                    "UpdatedDate": "2021-12-22 04:45:34",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "1e903986-19d5-4feb-8d23-1d362a1b8375",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 04:39:29",
+                    "UpdatedDate": "2021-12-22 04:39:30",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "30901c71-8c85-4cc1-a5cd-1efcbe7060dd",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-22 04:37:45",
+                    "UpdatedDate": "2021-12-22 04:37:45",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "e2f63e52-b0cf-4d8b-aad1-cd45c4002ab1",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 03:22:46",
+                    "UpdatedDate": "2021-12-22 03:22:47",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "7028248a-7b3b-417e-a6cb-9771ef3c7068",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 02:48:30",
+                    "UpdatedDate": "2021-12-22 02:48:31",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik1vZGVsIjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJUaXBvRGVDb25zb2xhIjsiTW9kb0RlSnVlZ28iOyJFc3JiIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJTS1UgJ0xlYS10ZXN0LXNkazEnIGlzIGFscmVhZHkgdXNlZCBieSBhbm90aGVyIHByb2R1Y3QuIjsiIjsiTGVhLXRlc3Qtc2RrMSI7Ikdsb2JhbCBQcm9kdWN0IHRvIHRlc3QgU0RLMSI7IlhMIjsiMTI0MCI7IiI7IlRoaXMgaXMgYSBwcm9kdWN0IGRlc2NyaXB0aW9uLiI7IjJLIEdBTUVTIjsiMTIyMzMzNjE5MDEiOyJJVkEgMTklIjsiTnVldm8iOyIzIjsiMCI7IjUiOyI0IjsiMTIzIjsiRXMgbnVldm8sIGxvIGp1cm8iOyJOaW50ZW5kbyBuZXMiOyJNdWx0aWp1Z2Fkb3IiOyJFICh0b2RhcyBsYXMgZWRhZGVzKSI7ImZhY2wiOyI2OTk5IjsiIjsiIjsiIjsiNDAwIjsiYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "a5448446-1600-49bf-9f14-70c2fa7edfc5",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 02:47:20",
+                    "UpdatedDate": "2021-12-22 02:47:21",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "e3af8d94-7e43-439d-9dce-c60cf521de0a",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 02:45:38",
+                    "UpdatedDate": "2021-12-22 02:45:39",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik1vZGVsIjsiQ29uZGl0aW9uVHlwZU5vdGUiOyJUaXBvRGVDb25zb2xhIjsiTW9kb0RlSnVlZ28iOyJFc3JiIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJQcm9kdWN0IElkZW50aWZpZXIgYWxyZWFkeSBpbiB1c2UuIHwgU2VsbGVyU2t1OiBMZWEtdGVzdC1zZGsxIHwgTmFtZTogR2xvYmFsIFByb2R1Y3QgdG8gdGVzdCBTREsiOyIiOyJMZWEtdGVzdC1zZGsxIjsiR2xvYmFsIFByb2R1Y3QgdG8gdGVzdCBTREsiOyJYTCI7IjEyNDAiOyIiOyJUaGlzIGlzIGEgcHJvZHVjdCBkZXNjcmlwdGlvbi4iOyIySyBHQU1FUyI7IjEyMjMzMzYxOSI7IklWQSAxOSUiOyJOdWV2byI7IjMiOyIwIjsiNSI7IjQiOyIxMjMiOyJFcyBudWV2bywgbG8ganVybyI7Ik5pbnRlbmRvIG5lcyI7Ik11bHRpanVnYWRvciI7IkUgKHRvZGFzIGxhcyBlZGFkZXMpIjsiZmFjbCI7IjY5OTkiOyIiOyIiOyIiOyI0MDAiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "af6e404b-a434-49cf-a00e-eb58baabb5ae",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 02:43:06",
+                    "UpdatedDate": "2021-12-22 02:43:07",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiUGFja2FnZUhlaWdodCI7IlBhY2thZ2VXaWR0aCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlV2VpZ2h0IjsiTW9kZWwiOyJDb25kaXRpb25UeXBlTm90ZSI7IlRpcG9EZUNvbnNvbGEiOyJNb2RvRGVKdWVnbyI7IkVzcmIiOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIkZpZWxkICdDb25kaXRpb25UeXBlJyBjYW5ub3QgYmUgZW1wdHkiOyIiOyJMZWEtdGVzdC1zZGsxIjsiR2xvYmFsIFByb2R1Y3QgdG8gdGVzdCBTREsiOyJYTCI7IjEyNDAiOyIiOyJUaGlzIGlzIGEgcHJvZHVjdCBkZXNjcmlwdGlvbi4iOyIySyBHQU1FUyI7IjEyMjMzMzYxOSI7IklWQSAxOSUiOyIzIjsiMCI7IjUiOyI0IjsiMTIzIjsiRXMgbnVldm8sIGxvIGp1cm8iOyJOaW50ZW5kbyBuZXMiOyJNdWx0aWp1Z2Fkb3IiOyJFICh0b2RhcyBsYXMgZWRhZGVzKSI7ImZhY2wiOyI2OTk5IjsiIjsiIjsiIjsiNDAwIjsiYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "a8c17017-2f25-4287-b9c5-430be8ed34f0",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-22 02:35:07",
+                    "UpdatedDate": "2021-12-22 02:35:08",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7IlNob3J0RGVzY3JpcHRpb24iOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIlNLVSAnTGVhLXRlc3Qtc2RrJyBpcyBhbHJlYWR5IHVzZWQgYnkgYW5vdGhlciBwcm9kdWN0Lg0KU2hvcnREZXNjcmlwdGlvbiBpcy9hcmUgbm90IGFwcGxpY2FibGUgdG8gRWxlY3Ryw7NuaWNhIjsiIjsiTGVhLXRlc3Qtc2RrIjsiR2xvYmFsIFByb2R1Y3QgdG8gdGVzdCBTREsiOyJYTCI7IjEyNDAiOyIiOyJUaGlzIGlzIGEgcHJvZHVjdCBkZXNjcmlwdGlvbi4iOyIySyBHQU1FUyI7IjEyMjMzMzYxOSI7IklWQSAxOSUiOyJOdWV2byI7IjAiOyI0IjsiNSI7IjQiOyJkZXNjcmlwdGlvbiB0ZXN0IjsiZmFjbCI7IjY5OTkiOyIiOyIiOyIiOyI0MDAiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "ad8e3a56-a43c-4853-b005-43d3d51a5f0a",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-22 02:34:27",
+                    "UpdatedDate": "2021-12-22 02:34:27",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7IlNob3J0RGVzY3JpcHRpb24iOyJPcGVyYXRvckNvZGUiOyJQcmljZSI7IlNwZWNpYWxQcmljZSI7IlNwZWNpYWxGcm9tRGF0ZSI7IlNwZWNpYWxUb0RhdGUiOyJTdG9jayI7IlN0YXR1cyIKIkZpZWxkKHMpIFNob3J0RGVzY3JpcHRpb24gaXMvYXJlIGludmFsaWQiOyIiOyJMZWEtdGVzdC1zZGsiOyJHbG9iYWwgUHJvZHVjdCB0byB0ZXN0IFNESyI7IlhMIjsiMTI0MCI7IiI7IlRoaXMgaXMgYSBwcm9kdWN0IGRlc2NyaXB0aW9uLiI7IjJLIEdBTUVTIjsiMTIyMzMzNjE5IjsiSVZBIDE5JSI7Ik51ZXZvIjsiMCI7IjQiOyI1IjsiNCI7ImRlc2NyaXB0aW9uIHRlc3QiOyJmYWNsIjsiNjk5OSI7IiI7IiI7IiI7IjQwMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "09fe8b72-1b88-4eec-8493-441508aa01d4",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 11:07:50",
+                    "UpdatedDate": "2021-12-21 11:07:52",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "00f6285a-4368-460c-8c81-6dbd98e53786",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 11:04:20",
+                    "UpdatedDate": "2021-12-21 11:04:21",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7Ik5hbWUiOyJCcmFuZCI7Ik1vZGVsIjsiRGVzY3JpcHRpb24iOyJQcm9kdWN0aW9uQ291bnRyeSI7IlByaW1hcnlDYXRlZ29yeSI7IkNvbG9yQmFzaWNvIjsiQ29sb3IiOyJTaXplIjsiUHJvZHVjdElkIjsiU2VsbGVyU2t1IjsiUGFyZW50U2t1IjsiU2FsZXNJbkZhbGFiZWxsYSI7IlF1YW50aXR5RmFsYWJlbGxhIjsiUHJpY2VGYWxhYmVsbGEiOyJTYWxlUHJpY2VGYWxhYmVsbGEiOyJTYWxlU3RhcnREYXRlRmFsYWJlbGxhIjsiU2FsZUVuZERhdGVGYWxhYmVsbGEiOyJUaXBvRGVSZWxvaiI7IkRpbWVuc2lvbmVzRGVMYUVzZmVyYSI7IlJlc2lzdGVuY2lhQWxBZ3VhIjsiTWF0ZXJpYWxEZUxhUHVsc2VyYSI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiVGlwb0RlQ2llcnJlRGVSZWxvaiI7Ik1hdGVyaWFsRGVMYU1pY2EiOyJUaXBvRGVDb21pc29uZXNDYW1pc29sYXMiOyJUaXBvRmFsZGFzIjsiVGlwb1Zlc3RpZG9zIjsiVXNvIjsiQ29uZGl0aW9uVHlwZSI7IkNvbmRpdGlvblR5cGVOb3RlIjsiU2VsbGVyV2FycmFudHkiOyJQcm9kdWN0V2FycmFudHkiOyJQYWNrYWdlQ29udGVudCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlSGVpZ2h0IjsiUGFja2FnZVdpZHRoIjsiUGFja2FnZVdlaWdodCI7Ik9yaWdlbkJ1IjsiTWFpbkltYWdlIjsiSW1hZ2UyIjsiSW1hZ2UzIjsiSW1hZ2U0IjsiSW1hZ2U1IjsiSW1hZ2U2IjsiSW1hZ2U3IjsiSW1hZ2U4IjsiU3RhdHVzIjsiVGF4Q2xhc3MiOyJDb25kaXRpb24iCiJTS1UgJ1NNLVI4NzVGWlNBSU5GJyBpcyBhbHJlYWR5IHVzZWQgYnkgYW5vdGhlciBwcm9kdWN0LiI7IiI7IkFkaWRhcyB3aGl0ZSBzbmVha2VycyBmb3IgbWVucyI7IjEwMSBJREVFUyI7IkFkaWRhcyBXaGl0ZSBTbmVha2VycyI7IlNwYXJ4IGlzIGEgc3BlY3RhY3VsYXIgcmFuZ2Ugb2YgZm9vdHdlYXIgZnJvbSB0aGUgaG91c2Ugb2YgUmVsYXhvIEZvb3R3ZWFycyBMdGQuLCBhIG5hbWUgdHJ1c3RlZCBhbW9uZyBtaWxsaW9ucyBvZiBwZW9wbGUgaW4gSW5kaWEgYW5kIGFjcm9zcyB0aGUgd29ybGQgZm9yIGRlbGl2ZXJpbmcgdW5tYXRjaGVkIHF1YWxpdHkuIFNpbmNlIGl0cyBpbmNlcHRpb24sIHRoZSBjb21wYW55IGhhcyBlc3RhYmxpc2hlZCBhIGJlbmNobWFyayBmb3IgYnJpbmdpbmcgdGhlIGZpbmVzdCByYW5nZSBvZiBmb290d2VhcnMuIjsiQW5nb2xhIjsiMjYzMiI7IkJyb25jZSI7IkF6dWwiOyJMIjsiODMyIjsiU00tUjg3NUZaU0FJTkYiOyIiOyIxIjsiMzAiOyIyMzAwMCI7IjIwMDAwIjsiMjAyMS0xMi0yMSI7IjIwMjEtMTItMzEiOyJSZWxvaiBzbWFydHdhdGNoIjsiMzJtbSI7IlPDrSI7IkNhcmV5IjsiVW5pc2V4IjsiTWFyaXBvc2EiOyJQb2xpY2FyYm9uYXRvIjsiQmF0YSI7IkZhbGRhcyI7IlZlc3RpZG9zIjsiTGVudGVzIENpY2xpc21vIjsiTnVldm8iOyJUaGUgcHJvZHVjdCBpcyBpbiBnb29kIGNvbmRpdGlvbiBhbmQgd29ya2luZyI7IiI7IiI7IiI7IjEiOyIzIjsiNCI7IjIiOyIiOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS81MWc2UzJYb0FjTC5fVVkxMDk1Xy5qcGciOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS82MVl4M0Y1UDA1Uy5fVVk5OTVfLmpwZyI7Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9JLzYxcTlrSmd4QUhMLl9VWTg5NV8uanBnIjsiaHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFPSDYwQlBDcUwuX1VZODk1Xy5qcGciOyIiOyIiOyIiOyIiOyJhY3RpdmUiOyJJVkEgMTklIjsibmV3Igo="
+                    }
+                },
+                {
+                    "Feed": "b3535df3-5afc-456d-9bfc-08e849e200ee",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 11:03:25",
+                    "UpdatedDate": "2021-12-21 11:03:26",
+                    "Source": "xlsx",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7Ik5hbWUiOyJCcmFuZCI7Ik1vZGVsIjsiRGVzY3JpcHRpb24iOyJQcm9kdWN0aW9uQ291bnRyeSI7IlByaW1hcnlDYXRlZ29yeSI7IkNvbG9yQmFzaWNvIjsiQ29sb3IiOyJTaXplIjsiUHJvZHVjdElkIjsiU2VsbGVyU2t1IjsiUGFyZW50U2t1IjsiU2FsZXNJbkZhbGFiZWxsYSI7IlF1YW50aXR5RmFsYWJlbGxhIjsiUHJpY2VGYWxhYmVsbGEiOyJTYWxlUHJpY2VGYWxhYmVsbGEiOyJTYWxlU3RhcnREYXRlRmFsYWJlbGxhIjsiU2FsZUVuZERhdGVGYWxhYmVsbGEiOyJUaXBvRGVSZWxvaiI7IkRpbWVuc2lvbmVzRGVMYUVzZmVyYSI7IlJlc2lzdGVuY2lhQWxBZ3VhIjsiTWF0ZXJpYWxEZUxhUHVsc2VyYSI7IkdlbmVyb0RlVmVzdHVhcmlvIjsiVGlwb0RlQ2llcnJlRGVSZWxvaiI7Ik1hdGVyaWFsRGVMYU1pY2EiOyJUaXBvRGVDb21pc29uZXNDYW1pc29sYXMiOyJUaXBvRmFsZGFzIjsiVGlwb1Zlc3RpZG9zIjsiVXNvIjsiQ29uZGl0aW9uVHlwZSI7IkNvbmRpdGlvblR5cGVOb3RlIjsiU2VsbGVyV2FycmFudHkiOyJQcm9kdWN0V2FycmFudHkiOyJQYWNrYWdlQ29udGVudCI7IlBhY2thZ2VMZW5ndGgiOyJQYWNrYWdlSGVpZ2h0IjsiUGFja2FnZVdpZHRoIjsiUGFja2FnZVdlaWdodCI7Ik9yaWdlbkJ1IjsiTWFpbkltYWdlIjsiSW1hZ2UyIjsiSW1hZ2UzIjsiSW1hZ2U0IjsiSW1hZ2U1IjsiSW1hZ2U2IjsiSW1hZ2U3IjsiSW1hZ2U4IjsiU3RhdHVzIjsiVGF4Q2xhc3MiOyJDb25kaXRpb24iCiJTS1UgJ1NNLVI4NzVGWlNBSU5QJyBpcyBhbHJlYWR5IHVzZWQgYnkgYW5vdGhlciBwcm9kdWN0LiI7IiI7IkFkaWRhcyB3aGl0ZSBzbmVha2VycyBmb3IgbWVucyI7IjEwMSBJREVFUyI7IkFkaWRhcyBXaGl0ZSBTbmVha2VycyI7IlNwYXJ4IGlzIGEgc3BlY3RhY3VsYXIgcmFuZ2Ugb2YgZm9vdHdlYXIgZnJvbSB0aGUgaG91c2Ugb2YgUmVsYXhvIEZvb3R3ZWFycyBMdGQuLCBhIG5hbWUgdHJ1c3RlZCBhbW9uZyBtaWxsaW9ucyBvZiBwZW9wbGUgaW4gSW5kaWEgYW5kIGFjcm9zcyB0aGUgd29ybGQgZm9yIGRlbGl2ZXJpbmcgdW5tYXRjaGVkIHF1YWxpdHkuIFNpbmNlIGl0cyBpbmNlcHRpb24sIHRoZSBjb21wYW55IGhhcyBlc3RhYmxpc2hlZCBhIGJlbmNobWFyayBmb3IgYnJpbmdpbmcgdGhlIGZpbmVzdCByYW5nZSBvZiBmb290d2VhcnMuIjsiQW5nb2xhIjsiMjYzMiI7IkJyb25jZSI7IkF6dWwiOyJMIjsiODMyIjsiU00tUjg3NUZaU0FJTlAiOyIiOyIxIjsiMzAiOyIyMzAwMCI7IjIwMDAwIjsiMjAyMS0xMi0yMSI7IjIwMjEtMTItMzEiOyJSZWxvaiBzbWFydHdhdGNoIjsiMzJtbSI7IlPDrSI7IkNhcmV5IjsiVW5pc2V4IjsiTWFyaXBvc2EiOyJQb2xpY2FyYm9uYXRvIjsiQmF0YSI7IkZhbGRhcyI7IlZlc3RpZG9zIjsiTGVudGVzIENpY2xpc21vIjsiTnVldm8iOyJUaGUgcHJvZHVjdCBpcyBpbiBnb29kIGNvbmRpdGlvbiBhbmQgd29ya2luZyI7IiI7IiI7IiI7IjEiOyIzIjsiNCI7IjIiOyIiOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS81MWc2UzJYb0FjTC5fVVkxMDk1Xy5qcGciOyJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvSS82MVl4M0Y1UDA1Uy5fVVk5OTVfLmpwZyI7Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9JLzYxcTlrSmd4QUhMLl9VWTg5NV8uanBnIjsiaHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFPSDYwQlBDcUwuX1VZODk1Xy5qcGciOyIiOyIiOyIiOyIiOyJhY3RpdmUiOyJJVkEgMTklIjsibmV3Igo="
+                    }
+                },
+                {
+                    "Feed": "675bfb86-30d7-47a8-b143-b50053f76452",
+                    "Status": "Finished",
+                    "Action": "Image",
+                    "CreationDate": "2021-12-21 08:15:28",
+                    "UpdatedDate": "2021-12-21 08:15:30",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IkltYWdlIgoiU2VsbGVyU2t1IHNrdTEgbm90IGZvdW5kIHwgU2VsbGVyU2t1OiBza3UxIjsiIjsic2t1MSI7Imh0dHA6Ly9zdGF0aWMuc29tZWNkbi5jb20vcmVhci5qcGVnIgo="
+                    }
+                },
+                {
+                    "Feed": "de9ae71f-a606-4975-a064-6d4513893580",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 08:07:37",
+                    "UpdatedDate": "2021-12-21 08:07:39",
+                    "Source": "xlsx",
+                    "TotalRecords": "2",
+                    "ProcessedRecords": "2",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "5d5cca55-1cdd-442b-8453-775e8b645465",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 08:01:06",
+                    "UpdatedDate": "2021-12-21 08:01:09",
+                    "Source": "xlsx",
+                    "TotalRecords": "2",
+                    "ProcessedRecords": "2",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "d105ef65-2f03-4349-9c0e-894bcceff5e0",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 07:07:39",
+                    "UpdatedDate": "2021-12-21 07:07:39",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlByaWNlIgoiRmllbGQocykgUHJpY2UgaXMvYXJlIGludmFsaWQNCk11bHRpT3BlcmF0b3IgRmVlZCBWYWxpZGF0aW9uIEZhaWxlZCI7IiI7IjQxMDUzODIxNzNhYWVlb29vb29vdXl0Z2Z5dGZ0eWZ5dCI7IjEyIgo="
+                    }
+                },
+                {
+                    "Feed": "ce23bf5b-ec7b-41b5-ab58-374efb7eed4a",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 07:07:35",
+                    "UpdatedDate": "2021-12-21 07:07:35",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlByaWNlIgoiRmllbGQocykgUHJpY2UgaXMvYXJlIGludmFsaWQNCk11bHRpT3BlcmF0b3IgRmVlZCBWYWxpZGF0aW9uIEZhaWxlZCI7IiI7IjQxMDUzODIxNzNhYWVlb29vb29vdXl0Z2Z5dGZ0eWZ5dCI7IjEyIgo="
+                    }
+                },
+                {
+                    "Feed": "f8b55aae-7d8d-49e9-afa1-022c3a75e983",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 07:06:38",
+                    "UpdatedDate": "2021-12-21 07:06:38",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlByaWNlIgoiRmllbGQocykgUHJpY2UgaXMvYXJlIGludmFsaWQNCk11bHRpT3BlcmF0b3IgRmVlZCBWYWxpZGF0aW9uIEZhaWxlZCI7IiI7IjQxMDUzODIxNzNhYWVlb29vb29vIjsiMTIiCg=="
+                    }
+                },
+                {
+                    "Feed": "d721e795-0122-44f9-8055-b7c6eac3a1a0",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 07:06:27",
+                    "UpdatedDate": "2021-12-21 07:06:27",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlByaWNlIgoiRmllbGQocykgUHJpY2UgaXMvYXJlIGludmFsaWQNCk11bHRpT3BlcmF0b3IgRmVlZCBWYWxpZGF0aW9uIEZhaWxlZCI7IiI7IjQxMDUzODIxNzNhYWVlIjsiMTIiCg=="
+                    }
+                },
+                {
+                    "Feed": "d509e151-a7cf-4b63-a328-c921b291ff52",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 07:06:26",
+                    "UpdatedDate": "2021-12-21 07:06:26",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlByaWNlIgoiRmllbGQocykgUHJpY2UgaXMvYXJlIGludmFsaWQNCk11bHRpT3BlcmF0b3IgRmVlZCBWYWxpZGF0aW9uIEZhaWxlZCI7IiI7IjQxMDUzODIxNzNhYWVlIjsiMTIiCg=="
+                    }
+                },
+                {
+                    "Feed": "10771f03-efc7-4f00-a2a1-d45fc1505938",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 06:59:04",
+                    "UpdatedDate": "2021-12-21 06:59:05",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiU2VsbGVyIFNLVSAnc2VsbGVyc2t1MTInIG5vdCBmb3VuZA0KJ2FiY2QnIGlzIGFuIGludmFsaWQgVGF4IENsYXNzDQpNdWx0aU9wZXJhdG9yIEZlZWQgVmFsaWRhdGlvbiBGYWlsZWQiOyIiOyJzZWxsZXJza3UxMiI7InNoYW1wb28iOyIyLjAiOyIxIjsiIjsiaGFnYWdhZyI7IkRPdmUiOyIxMjM0NTYxMjM0IjsiYWJjZCI7Ik51ZXZvIjsiMTIiOyIyNiI7IjYiOyI1MCI7ImZhY2wiOyIyMCI7IiI7IiI7IiI7IjQwMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "8b813416-7b85-43b4-b7d8-a3d0a9d84f5e",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 06:37:01",
+                    "UpdatedDate": "2021-12-21 06:37:02",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiU2VsbGVyIFNLVSAnc2VsbGVyc2t1JyBub3QgZm91bmQNCidhYmNkJyBpcyBhbiBpbnZhbGlkIFRheCBDbGFzcw0KTXVsdGlPcGVyYXRvciBGZWVkIFZhbGlkYXRpb24gRmFpbGVkIjsiIjsic2VsbGVyc2t1Ijsic2hhbXBvbyI7IjIuMCI7IjEiOyIiOyJoYWdhZ2FnIjsiRE92ZSI7IjEyMzQ1NjEyMzQiOyJhYmNkIjsiTnVldm8iOyIxMiI7IjI2IjsiNiI7IjUwIjsiZmFjbCI7IjIwIjsiIjsiIjsiIjsiNDAwIjsiYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "b28d11a0-6876-42ee-83ea-7c760f687ee5",
+                    "Status": "Finished",
+                    "Action": "ProductUpdate",
+                    "CreationDate": "2021-12-21 06:36:16",
+                    "UpdatedDate": "2021-12-21 06:36:16",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiU2VsbGVyIFNLVSAnc2VsbGVyc2t1JyBub3QgZm91bmQNCidhYmNkJyBpcyBhbiBpbnZhbGlkIFRheCBDbGFzcw0KTXVsdGlPcGVyYXRvciBGZWVkIFZhbGlkYXRpb24gRmFpbGVkIjsiIjsic2VsbGVyc2t1Ijsic2hhbXBvbyI7IjIuMCI7IjEiOyIiOyJoYWdhZ2FnIjsiRE92ZSI7IjEyMzQ1NiI7ImFiY2QiOyJOdWV2byI7IjEyIjsiMjYiOyI2IjsiNTAiOyJmYWNsIjsiMjAiOyIiOyIiOyIiOyI0MDAiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "d7a30603-01f8-40af-a351-db33c303df4d",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 06:18:19",
+                    "UpdatedDate": "2021-12-21 06:18:19",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiJ2FiY2QnIGlzIGFuIGludmFsaWQgVGF4IENsYXNzDQpGaWVsZCAnTW9kZWwnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ01hdGVyaWFsJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDb25kaXRpb25UeXBlTm90ZScgY2Fubm90IGJlIGVtcHR5IjsiIjsic2VsbGVyc2t1Ijsic2hhbXBvbyI7IjIuMCI7IjEiOyIiOyJoYWdhZ2FnIjsiRE92ZSI7IjEyMzQ1NiI7ImFiY2QiOyJOdWV2byI7IjEyIjsiMjYiOyI2IjsiNTAiOyJmYWNsIjsiMjAiOyIiOyIiOyIiOyI0MDAiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "c944773f-6f61-4dd0-9a2b-036ea72422f1",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 06:15:31",
+                    "UpdatedDate": "2021-12-21 06:15:31",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiJ2FiY2QnIGlzIGFuIGludmFsaWQgVGF4IENsYXNzDQpGaWVsZCAnTW9kZWwnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ01hdGVyaWFsJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDb25kaXRpb25UeXBlTm90ZScgY2Fubm90IGJlIGVtcHR5IjsiIjsic2VsbGVyc2t1Ijsic2hhbXBvbyI7IjIuMCI7IjEiOyIiOyJoYWdhZ2FnIjsiRE92ZSI7IjEyMzQ1NiI7ImFiY2QiOyJOdWV2byI7IjEyIjsiMjYiOyI2IjsiNTAiOyJmYWNsIjsiMjAiOyIiOyIiOyIiOyI0MDAiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "1c101d2a-4ce9-482f-b0d7-43d24a6674df",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 06:13:31",
+                    "UpdatedDate": "2021-12-21 06:13:32",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiJ2FiY2QnIGlzIGFuIGludmFsaWQgVGF4IENsYXNzDQpGaWVsZCAnTW9kZWwnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ01hdGVyaWFsJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDb25kaXRpb25UeXBlTm90ZScgY2Fubm90IGJlIGVtcHR5IjsiIjsic2VsbGVyc2t1Ijsic2hhbXBvbyI7IjIuMCI7IjEiOyIiOyJoYWdhZ2FnIjsiRE92ZSI7IjEyMzQ1NiI7ImFiY2QiOyJOdWV2byI7IjEyIjsiMjYiOyI2IjsiNTAiOyJmYWNsIjsiMjAiOyIiOyIiOyIiOyI0MDAiOyJhY3RpdmUiCg=="
+                    }
+                },
+                {
+                    "Feed": "acc38954-ad2b-4694-b429-ae611d314661",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 05:51:36",
+                    "UpdatedDate": "2021-12-21 05:51:36",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3RvY2siOyJTdGF0dXMiCiInYWJjZCcgaXMgYW4gaW52YWxpZCBUYXggQ2xhc3MNCkZpZWxkICdNb2RlbCcgY2Fubm90IGJlIGVtcHR5DQpGaWVsZCAnTWF0ZXJpYWwnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWUnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NvbmRpdGlvblR5cGVOb3RlJyBjYW5ub3QgYmUgZW1wdHkiOyIiOyJzZWxsZXJza3UiOyJzaGFtcG9vIjsiMi4wIjsiMSI7IiI7ImhhZ2FnYWciOyJET3ZlIjsiMTIzNDU2IjsiYWJjZCI7Ik51ZXZvIjsiMTIiOyIyNiI7IjYiOyI1MCI7ImZhY2wiOyIyMCI7IjQwMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "9adf0e00-9883-45bb-8146-ae2cd0f9f16d",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 05:48:12",
+                    "UpdatedDate": "2021-12-21 05:48:12",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3RvY2siOyJTdGF0dXMiCiInYWJjZCcgaXMgYW4gaW52YWxpZCBUYXggQ2xhc3MNCkZpZWxkICdNb2RlbCcgY2Fubm90IGJlIGVtcHR5DQpGaWVsZCAnTWF0ZXJpYWwnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NhbnRpZGFkQ29udGVuaWRhRW5FbEVtcGFxdWUnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NvbmRpdGlvblR5cGVOb3RlJyBjYW5ub3QgYmUgZW1wdHkNClZhbGlkYXRpb24gY2Fubm90IGJlIGRvbmUgYXMgZmV3IGZpZWxkcyBhcmUgbWlzc2luZw0KQXQgbGVhc3Qgb25lIGJ1c2luZXNzIHVuaXQgb3IgaXRzIGF0dHJpYnV0ZXMgc2hvdWxkIGJlIGZpbGxlZCI7IiI7InNlbGxlcnNrdSI7InNoYW1wb28iOyIyLjAiOyIxIjsiIjsiaGFnYWdhZyI7IkRPdmUiOyIxMjM0NTYiOyJhYmNkIjsiTnVldm8iOyIxMiI7IjI2IjsiNiI7IjUwIjsiZmFjbCI7IjIwIjsiNDAwIjsiYWN0aXZlIgo="
+                    }
+                },
+                {
+                    "Feed": "67ad37d9-15aa-4965-816c-e5f9182e3879",
+                    "Status": "Error",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 05:47:16",
+                    "UpdatedDate": "2021-12-21 05:47:16",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "0",
+                    "FailedRecords": "0",
+                    "FailureReports": ""
+                },
+                {
+                    "Feed": "16f95507-2014-4f2c-b0af-430e47155d4b",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 05:45:37",
+                    "UpdatedDate": "2021-12-21 05:45:38",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7Ik5hbWUiOyJWYXJpYXRpb24iOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlByb2R1Y3RJZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7Ik9wZXJhdG9yQ29kZSI7IlByaWNlIjsiU3BlY2lhbFByaWNlIjsiU3BlY2lhbEZyb21EYXRlIjsiU3BlY2lhbFRvRGF0ZSI7IlN0b2NrIjsiU3RhdHVzIgoiJ2FiY2QnIGlzIGFuIGludmFsaWQgVGF4IENsYXNzDQpGaWVsZCAnTW9kZWwnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ01hdGVyaWFsJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDYW50aWRhZENvbnRlbmlkYUVuRWxFbXBhcXVlJyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdDb25kaXRpb25UeXBlTm90ZScgY2Fubm90IGJlIGVtcHR5DQpWYWxpZGF0aW9uIGNhbm5vdCBiZSBkb25lIGFzIGZldyBmaWVsZHMgYXJlIG1pc3NpbmcNCkF0IGxlYXN0IG9uZSBidXNpbmVzcyB1bml0IG9yIGl0cyBhdHRyaWJ1dGVzIHNob3VsZCBiZSBmaWxsZWQiOyIiOyJzZWxsZXJza3UiOyJzaGFtcG9vIjsiMi4wIjsiMSI7IiI7ImhhZ2FnYWciOyJET3ZlIjsiMTIzNDU2IjsiYWJjZCI7Ik51ZXZvIjsiMTIiOyIyNiI7IjYiOyI1MCI7ImZhY2wiOyIyMCI7IiI7IiI7IiI7IjQwMCI7ImFjdGl2ZSIK"
+                    }
+                },
+                {
+                    "Feed": "c8e3b483-30ab-44f1-bb17-77956655dcd3",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 04:22:36",
+                    "UpdatedDate": "2021-12-21 04:22:37",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlZhcmlhdGlvbiI7IkNhdGVnb3JpZXMiOyJCcmFuZCI7IlRheENsYXNzIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7ImJ1c2luZXNzVW5pdEF0dHJpYnV0ZXNLZXkiCiJTZWxsZXJTa3UgY2Fubm90IGJlIGVtcHR5IjsiIjsiMi4wIjsiIjsiRE92ZSI7ImFiY2QiOyJOdWV2byI7IjEyIjsiMjYiOyI2IjsiNTAiOyJmYWNsIgo="
+                    }
+                },
+                {
+                    "Feed": "2e80a5c0-e602-472f-b1db-531c356dd8ca",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 04:13:34",
+                    "UpdatedDate": "2021-12-21 04:13:34",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlZhcmlhdGlvbiI7IkJyYW5kIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7ImJ1c2luZXNzVW5pdEF0dHJpYnV0ZXNLZXkiCiJTZWxsZXJTa3UgY2Fubm90IGJlIGVtcHR5IjsiIjsic2hhbXBvbyI7ImhhZ2FnYWciOyJOdWV2byI7IjEyIjsiMjYiOyI2IjsiNTAiOyJmYWNsIgo="
+                    }
+                },
+                {
+                    "Feed": "dffe8a15-eacd-4fc6-a460-aafbab781b55",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-21 04:11:44",
+                    "UpdatedDate": "2021-12-21 04:11:45",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlZhcmlhdGlvbiI7IkJyYW5kIjsiQ29uZGl0aW9uVHlwZSI7IlBhY2thZ2VIZWlnaHQiOyJQYWNrYWdlV2lkdGgiOyJQYWNrYWdlTGVuZ3RoIjsiUGFja2FnZVdlaWdodCI7ImJ1c2luZXNzVW5pdEF0dHJpYnV0ZXNLZXkiCiJTZWxsZXJTa3UgY2Fubm90IGJlIGVtcHR5IjsiIjsic2hhbXBvbyI7ImhhZ2FnYWciOyJOdWV2byI7IjEyIjsiMjYiOyI2IjsiNTAiOyJmYWNsIgo="
+                    }
+                },
+                {
+                    "Feed": "f4a8ce43-b090-484a-ac4d-b43de11d5b3a",
+                    "Status": "Finished",
+                    "Action": "ProductCreate",
+                    "CreationDate": "2021-12-17 09:03:26",
+                    "UpdatedDate": "2021-12-17 09:03:26",
+                    "Source": "api",
+                    "TotalRecords": "1",
+                    "ProcessedRecords": "1",
+                    "FailedRecords": "1",
+                    "FailureReports": {
+                        "MimeType": "text/csv",
+                        "File": "IkVycm9yIjsiV2FybmluZyI7IlNlbGxlclNrdSI7IlBhcmVudFNrdSI7Ik5hbWUiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiRGVzY3JpcHRpb24iOyJCcmFuZCI7IlNoaXBtZW50VHlwZSI7IlByb2R1Y3RJZCI7IkNvbmRpdGlvbiI7Ik1lZ2FwaXhlbHMiOyJPcHRpY2FsWm9vbSI7IlN5c3RlbU1lbW9yeSI7Ik51bWJlckNwdXMiOyJOZXR3b3JrIjsiT3BlcmF0b3JDb2RlIjsiUHJpY2UiOyJTcGVjaWFsUHJpY2UiOyJTcGVjaWFsRnJvbURhdGUiOyJTcGVjaWFsVG9EYXRlIjsiU3RvY2siOyJTdGF0dXMiCiJCcmFuZCAnQVNNJyBpcyBub3QgcmVnaXN0ZXJlZCBvbiBTZWxsZXIgQ2VudGVyLg0KTWVnYXBpeGVscywgT3B0aWNhbFpvb20sIFN5c3RlbU1lbW9yeSwgTnVtYmVyQ3B1cywgTmV0d29yayBpcy9hcmUgbm90IGFwcGxpY2FibGUgdG8gSmFyZGluZXLDrWEiOyIiOyJBU01fQTgwMTAiOyIiOyJQcm9kdWN0IjsiNCI7IjIsMyw1IjsicHJvZHVjdCBkZXNjcmlwdGlvbiI7IkFTTSI7ImRyb3BzaGlwcGluZyI7Inh5emFiYyI7Im5ldyI7IjQ5MCI7IjciOyI0IjsiMzIiOyJUaGlzIGlzIG5ldHdvcmsiOyJmYWNsIjsiOTk5LjAwIjsiIjsiIjsiIjsiMTAiOyJhY3RpdmUiCg=="
+                    }
+                }
+            ]
+        }
+    }
+}

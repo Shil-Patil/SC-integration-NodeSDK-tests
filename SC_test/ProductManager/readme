@@ -1,0 +1,12 @@
+#Linio Seller Center has 3 countries- 1)Chile
+                                      2)Columbia
+                                      3)Mexico
+#To run @Test_Products.js 
+Change product_*.js for specific country.
+
+Columbia- Same fields as GSC 
+Chile- Extra field "DeliveryTimeSupplier"
+Mexico- Extra field "ProductionCountry"
+
+Add image has many conditions on image array, type 
+

@@ -1,0 +1,583 @@
+{"All" :{
+    "SuccessResponse": {
+      "Head": {
+        "RequestId": "",
+        "RequestAction": "GetQcStatus",
+        "ResponseType": "State",
+        "Timestamp": "2021-12-31T05:05:06-0300"
+      },
+      "Body": {
+        "Status": {
+          "State": [
+            {
+              "SellerSKU": "386286867",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "328623868",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "6557788",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "8723737",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "1234555",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "98189123",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "JAN738930932",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "98762534",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "MARU-03-NO-REMOVE",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "2121231313",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "987654567",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "876545678",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "84345678",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "84345679",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "987987978",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "87456784679",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "87456784678",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "98765678",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "8765456789",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "86567832726",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "356782757256",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "876483658",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "7334786378",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "48634786578",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "637839738768",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "765673321",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "8765456788",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "438683468",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "438683469",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "67672652669",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "67672652668",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "67672652666",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "67672652667",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "876876876",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "25363636",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "87878978",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "98798786",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "8789797979",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "8789797970",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "266376743",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "368476877",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "8374873878",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "8374873879",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "436765767",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "KvOPnvAeI52",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "94754387847",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "JcNHqFUii79",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "498754985",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "384836873",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "384836878",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "27676676726",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "27676676728",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "27676676727",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "MtHBrNIuU15",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "CykNwgUeu08",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "278273827",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "2728728727",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "01938938",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "01938939",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "57657656456",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "57657656455",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "67565476",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "78276129",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "9327917",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "726129802",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "899781202",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "76812672178",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "781678129",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "73216782978",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "7681276186512",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "68236718298",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "7165181561286",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "2376762676",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "2376762678",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "81267129819",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "6871719199712",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "9771672189019",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "36746343",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "chanchito-rosa-rosa",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "Lea-test-sdk",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "Lea-test-sdk-2",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "676726526626",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "676726526627",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "367436746376",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "367436746377",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "367436746378",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "785738578",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "483685637",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "332387483",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "4764756476",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "9876545678",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "9876545677",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "743787774",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "6373846347",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "6373846348",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "Miguel24088405",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "365736473677",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "365736473676",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "4674674637",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "4674674638",
+              "Status": "approved",
+              "DataChanged": "0"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Limit10": {
+    "SuccessResponse": {
+      "Head": {
+        "RequestId": "",
+        "RequestAction": "GetQcStatus",
+        "ResponseType": "State",
+        "Timestamp": "2021-12-31T05:05:06-0300"
+      },
+      "Body": {
+        "Status": {
+          "State": [
+            {
+              "SellerSKU": "386286867",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "328623868",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "6557788",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "8723737",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "1234555",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "98189123",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "JAN738930932",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "98762534",
+              "Status": "approved",
+              "DataChanged": "1"
+            },
+            {
+              "SellerSKU": "MARU-03-NO-REMOVE",
+              "Status": "approved",
+              "DataChanged": "0"
+            },
+            {
+              "SellerSKU": "2121231313",
+              "Status": "approved",
+              "DataChanged": "1"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

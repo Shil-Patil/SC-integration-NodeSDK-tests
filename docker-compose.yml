@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  node-sdk-test:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: node-sdk-test:latest
